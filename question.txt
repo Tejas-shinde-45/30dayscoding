@@ -1,0 +1,115 @@
+1. ARRAYS
+🟢 Easy
+Find Largest Element
+Find Second Largest Element
+Check if Array is Sorted
+Reverse an Array
+Move Zeroes
+Rotate Array
+Remove Duplicates from Sorted Array
+Best Time to Buy and Sell Stock
+Find Missing Number
+Maximum Consecutive Ones
+🟡 Medium
+Two Sum
+Product of Array Except Self
+Maximum Subarray (Kadane’s Algorithm)
+Container With Most Water
+Trapping Rain Water
+3Sum
+Merge Intervals
+Set Matrix Zeroes
+Spiral Matrix
+Next Permutation
+🚀 2. STRINGS
+🟢 Easy
+Reverse String
+Valid Palindrome
+Valid Anagram
+Length of Last Word
+Longest Common Prefix
+Roman to Integer
+Count Vowels in String
+Check Rotated String
+Remove Spaces
+Count Frequency of Characters
+🟡 Medium
+Longest Palindromic Substring
+Group Anagrams
+String Compression
+Zigzag Conversion
+Decode String
+Multiply Strings
+Compare Version Numbers
+Generate Parentheses
+Palindrome Partitioning
+Minimum Window Substring
+🚀 3. HASHMAP
+🟢 Easy
+Two Sum
+Valid Anagram
+Contains Duplicate
+First Non-Repeating Character
+Frequency Count of Elements
+Intersection of Two Arrays
+Majority Element
+Happy Number
+Find Duplicate Number
+Count Pairs With Given Sum
+🟡 Medium
+Group Anagrams
+Subarray Sum Equals K
+Longest Consecutive Sequence
+Top K Frequent Elements
+Isomorphic Strings
+Longest Substring Without Repeating Characters
+Word Pattern
+4Sum II
+Minimum Index Sum of Two Lists
+Find All Anagrams in a String
+🚀 4. TWO POINTER
+🟢 Easy
+Valid Palindrome
+Two Sum II (sorted array)
+Remove Duplicates
+Move Zeroes
+Reverse String
+Merge Sorted Array
+Squares of Sorted Array
+Container With Most Water
+Remove Element
+Sort Colors
+🟡 Medium
+3Sum
+4Sum
+Trapping Rain Water
+Partition Labels
+Boats to Save People
+Next Permutation
+Minimum Size Subarray Sum
+Dutch National Flag Problem
+Backspace String Compare
+Longest Mountain in Array
+🚀 5. SLIDING WINDOW
+🟢 Easy
+Maximum Average Subarray
+Find All Negative Numbers in Window K
+Maximum Sum Subarray of Size K
+Longest Substring Without Repeating Characters
+Permutation in String
+Count Occurrences of Anagrams
+Fixed Window Maximum
+Diet Plan Performance
+Grumpy Bookstore Owner
+Defuse the Bomb
+🟡 Medium
+Longest Repeating Character Replacement
+Minimum Window Substring
+Fruit Into Baskets
+Sliding Window Maximum
+Binary Subarrays With Sum
+Longest Ones After Replacement
+Subarrays With K Different Integers
+Minimum Size Subarray Sum
+Max Consecutive Ones III
+Take K of Each Character From Left and Right

@@ -40,9 +40,11 @@
 # # The Doubler: Create a lambda function that takes one argument and returns it multiplied by 2.
 # doubler=lambda x:x*2
 # print(doubler(2))
+
 # # The Last Letter: Create a lambda function that takes a string and returns only the last character of that string.
 # lst_lt=lambda text:text[-1]
 # print(lst_lt('Tejas'))
+
 # # The Sales Tax: Create a lambda that takes a price and returns the price plus 18% tax (multiply by 1.18).
 # tax=lambda x:x*1.18
 # print(tax(300))

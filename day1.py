@@ -25,7 +25,7 @@
 
 #  3. Sum of digits of a number 
 # method one.
-# n=2312
+# n=231256
 # sumof=0
 # while n>0:
 #     sumof+=n%10
@@ -39,16 +39,69 @@
 
 
 # 5. Print star patterns (triangle, pyramid)
-# n=5
+# n=6
+# for i in range(n):
+#     for j in range(i+1):
+#         print("*",end="")
+#     print()
+
+#pyramid full
+# n=10
+# for i in range(1,n):
+#     print(" "*(n-i) +"*"*(2*i-1))
+
+#half pyramid left side
+# n=10
+# for i in range(0,n):
+#     print(" "*(n-i)+"*"*(2+i-1))
+# # half pyramid right side...
+# n=6
+# for i in range(0,n):
+#     print()
+# 🎯 Daily Challenge: Create a half pyramid using numbers or stars.
+
+# n=6
+
 # for i in range(6):
 #     for j in range(i+1):
 #         print("*",end="")
 #     print()
 
-# 🎯 Daily Challenge: Create a half pyramid using numbers or stars.
+# n=6
+# for i in range(n):
+#     print("*"*(i+1))
 
-n=6
-for i in range(6):
-    for j in range(i+1):
-        print("*",end="")
-    print()
+
+# n = 5
+
+# for i in range(1, n + 1):
+#     # left spaces
+#     print(" " * (n - i), end="")
+    
+#     # increasing numbers
+#     for j in range(1, i + 1):
+#         print(j, end="")
+    
+#     # decreasing numbers
+#     for j in range(i - 1, 0, -1):
+#         print(j, end="")
+    
+#     print()
+
+
+# arr=[]
+# while True:
+#     a=int(input("enter things:"))
+#     arr.append(a*10)
+#     if a==0:
+#         break
+# print(sum(arr))
+
+# git commands 
+
+# git status
+# git add .
+# git commit -m "Added new files"
+# git push origin main
+
+

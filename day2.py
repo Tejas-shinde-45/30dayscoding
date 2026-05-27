@@ -46,21 +46,18 @@
 # fibo(6)
 #
 # 4. Check palindrome number 
-#def palindrome(num):
+# def palindrome(num):
 #     original_num=num
 #     reverse=0
 #     while num>0:
 #         digit=num % 10
-#         print("digit",digit)
-#         reverse=reverse % 10 +digit
-#         print("reverse",reverse)
+#         reverse=reverse * 10 +digit
 #         num //=10
-#         print("num",num)
 #     return original_num == reverse
 # if palindrome(121):
 #     print("number is palimdrome")
 # else:
-#     print("number is palimdrome")
+#     print("number is not palimdrome")
 #---------------------------------------------------------
 # n = input("Enter a number: ")
 
